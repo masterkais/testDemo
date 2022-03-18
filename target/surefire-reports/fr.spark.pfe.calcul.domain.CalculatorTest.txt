@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: fr.spark.pfe.calcul.domain.CalculatorTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 0.063 s <<< FAILURE! - in fr.spark.pfe.calcul.domain.CalculatorTest
+testAddTwoPositiveNumbers  Time elapsed: 0.031 s  <<< ERROR!
+java.lang.NullPointerException
+	at fr.spark.pfe.calcul.domain.CalculatorTest.initCalculator(CalculatorTest.java:45)
+
+multiply_shouldReturnTheProduct_ofTwoIntegers  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException
+	at fr.spark.pfe.calcul.domain.CalculatorTest.initCalculator(CalculatorTest.java:45)
+
